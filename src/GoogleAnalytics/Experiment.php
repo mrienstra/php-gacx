@@ -35,7 +35,7 @@ use UnexpectedValueException;
  */
 class Experiment {
 	
-	const GACX_URL = 'http://www.google-analytics.com/cx/api.js';
+	const GACX_URL = 'https://www.google-analytics.com/cx/api.js';
 	
 	
 	/**
